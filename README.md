@@ -1,2 +1,2 @@
 # Pho-hinix
-Phonetic for Hindi Language
+- Phonetic for Hindi Language using JAVA
